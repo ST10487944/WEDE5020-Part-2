@@ -1,0 +1,182 @@
+body{
+    background-color: #f4f7ff;
+    margin: 0px;
+}
+
+#wrapper{
+    width: 960px;
+    background-color: #eaf2ff;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+header{
+    background-color: #b6d8e4;
+    height: 120px;
+    position: relative;
+}
+
+header img{
+    width: 115px;
+    position: absolute;
+    top: 10px;
+    left: 10px;
+}
+
+#toplinks{
+    position: absolute ;
+    width: 450px;
+    top: 10px;
+    right: 10px;
+}
+
+#toplinks li{
+    display: inline-block;
+    padding-left: 10px;
+    padding-right: 10px ;
+}
+
+a:link{
+    color: #3a7bd5;
+    text-decoration: none;
+}
+
+a:visited{
+    color: #2c3e50;
+}
+
+a:hover{
+    color: #1abc9c;
+}
+
+.currentPage{
+    color: #1abc9c;
+    border-bottom: solid thin #1abc9c;
+}
+
+.clearFix{
+    clear: both;
+}
+
+main{
+    background-image: url(_images/smiles.png.jpg);
+}
+
+#homeInfo{
+    background-color: rgba(255, 255, 255, 0.4);
+    width: 100%;
+    padding-top: 15px;
+    padding-bottom: 20px;
+}
+
+h1{
+    font-size: 2em;
+    color: #2c3e50;
+    padding-left: 30px;
+    padding-bottom: solid thin #1d1abc;
+    padding-bottom: 15px;
+    margin: 0%;
+}
+h3{
+    font-size: 1.2em;
+    color: #2c3e50;
+    padding-left: 30px;
+    margin-top: 0px;
+    margin-bottom: 10px;
+}
+
+p{
+    font-size: 1em;
+    color: #2c3e50;
+    padding-left: 30px;
+}
+
+footer{
+    background-color: #b6d8e4;
+    text-align: center;
+    color: #2c3e50;
+    font-size: 0.7em;
+    padding-top: 10px;
+    padding-bottom: 5px  
+}
+
+#bottomlinks{
+    display: inline-block;
+    padding-left: 5px;
+    padding-right: 5px;
+}
+
+#tutors{
+    background-image: none;
+    padding-left: 25px;
+}
+
+ #col2, #col3{
+    width: 300px;
+    float: left;
+    text-align: center;
+    margin-right: 120px;
+    margin-bottom: 20px;
+ }
+
+    #col4, #col5{
+    width: 300px;
+    float: left;
+    text-align: center;
+    margin-right: 120px;
+    margin-bottom: 20px;
+   }
+
+#tutors h2{
+    color: #2c3e50;
+    font-size: 1.5em;
+    padding-left: 25px;
+}
+
+main{
+    background-image: url(_images/smiles.png.jpg);
+}
+
+#contactInfo{
+    background-color: rgba(255, 255, 255, 0.2);
+    width: 100%;
+    padding-top: 15px;
+    padding-bottom: 20px;
+}
+
+article{
+    background-color: rgba(255, 255, 255, 0.4);
+    width: 90%;
+    margin-left: auto;
+    margin-right: auto;
+    padding: 15px;
+    border-radius: 10px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+}
+
+article h4{
+    color: #2c3e50;
+    font-size: 1.2em;
+    margin-top: 0px;
+}
+
+contactInfo article p{
+    font-size: 1em;
+    color: #2c3e50;
+    margin-top: 5px;
+    margin-bottom: 5px;
+}
+
+#membership{
+    background-color: rgba(255, 255, 255, 0.5);
+    width: 100%;
+    padding-top: 15px;
+    padding-bottom: 20px;
+}
+
+
+
+
+
+
+
